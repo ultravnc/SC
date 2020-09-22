@@ -1,0 +1,128 @@
+// Created by Microsoft (R) C/C++ Compiler Version 12.00.8447.0 (9111c7b0).
+//
+// CCNSMT.tlh
+//
+// C++ source equivalent of Win32 type library CCNSMT.tlb
+// compiler-generated file created 11/21/04 at 17:29:46 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+//
+// Forward references and typedefs
+//
+
+struct /* coclass */ CCNMediaTerm;
+struct __declspec(uuid("94221c4d-00f1-11d4-9d59-0060b0fc246c"))
+/* interface */ ICCNMediaTerm;
+struct __declspec(uuid("94221c4f-00f1-11d4-9d59-0060b0fc246c"))
+/* interface */ _ICCNMediaTermEvents;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(ICCNMediaTerm, __uuidof(ICCNMediaTerm));
+_COM_SMARTPTR_TYPEDEF(_ICCNMediaTermEvents, __uuidof(_ICCNMediaTermEvents));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("94221c4e-00f1-11d4-9d59-0060b0fc246c"))
+CCNMediaTerm;
+    // [ default ] interface ICCNMediaTerm
+    // [ default, source ] interface _ICCNMediaTermEvents
+
+struct __declspec(uuid("94221c4d-00f1-11d4-9d59-0060b0fc246c"))
+ICCNMediaTerm : IUnknown
+{
+    //
+    // Raw methods provided by interface
+    //
+
+    virtual HRESULT __stdcall Initialize ( ) = 0;
+    virtual HRESULT __stdcall UnInitialize ( ) = 0;
+    virtual HRESULT __stdcall StartMicrophone ( ) = 0;
+    virtual HRESULT __stdcall StopMicrophone ( ) = 0;
+    virtual HRESULT __stdcall StartAudioReceive ( ) = 0;
+    virtual HRESULT __stdcall StopAudioReceive ( ) = 0;
+    virtual HRESULT __stdcall StopDtmfTone ( ) = 0;
+    virtual HRESULT __stdcall SetAudioCodecRX (
+        long CompressionType,
+        long MillisecPacketSize,
+        long EchoCancellationValue,
+        long G723BitRate ) = 0;
+    virtual HRESULT __stdcall SetAudioCodecTX (
+        long CompressionType,
+        long MillisecPacketSize,
+        long PrecedenceValue,
+        long SilenceSuppression,
+        unsigned short MaxFramesPerPacket,
+        long G723BitRate ) = 0;
+    virtual HRESULT __stdcall SetAudioDestination (
+        BSTR strHostName,
+        long nUDPortNumber ) = 0;
+    virtual HRESULT __stdcall SetAudioReceivePort (
+        long nUDPPortNumber ) = 0;
+    virtual HRESULT __stdcall StartDtmfTone (
+        long cToneAsChar,
+        long OnTime,
+        long OffTime ) = 0;
+    virtual HRESULT __stdcall StartPlayingFileTX (
+        BSTR Filename,
+        unsigned long Mode,
+        unsigned long volume,
+        long * Cookie ) = 0;
+    virtual HRESULT __stdcall StartPlayingFileRX (
+        BSTR Filename,
+        unsigned long Mode,
+        unsigned long waveoutDeviceID,
+        unsigned long volume,
+        long * Cookie ) = 0;
+    virtual HRESULT __stdcall StopPlayingFileTX (
+        unsigned long Cookie ) = 0;
+    virtual HRESULT __stdcall StopPlayingFileRX (
+        unsigned long Cookie ) = 0;
+    virtual HRESULT __stdcall StartTX (
+        unsigned long waveinDeviceID ) = 0;
+    virtual HRESULT __stdcall StopTX ( ) = 0;
+    virtual HRESULT __stdcall StartRX (
+        unsigned long waveoutDeviceID ) = 0;
+    virtual HRESULT __stdcall StopRX ( ) = 0;
+    virtual HRESULT __stdcall SetSpeakerVolume (
+        unsigned long deviceID,
+        unsigned long volume ) = 0;
+    virtual HRESULT __stdcall SetMicrophoneVolume (
+        unsigned long deviceID,
+        unsigned long volume ) = 0;
+    virtual HRESULT __stdcall SetFilePlayVolume (
+        unsigned long Cookie,
+        unsigned long volume ) = 0;
+    virtual HRESULT __stdcall NetworkMonitor (
+        unsigned long Enable,
+        unsigned long DurationMillisec ) = 0;
+};
+
+struct __declspec(uuid("94221c4f-00f1-11d4-9d59-0060b0fc246c"))
+_ICCNMediaTermEvents : IUnknown
+{
+    //
+    // Raw methods provided by interface
+    //
+
+    virtual HRESULT __stdcall EndOfFileEventRX (
+        long Cookie ) = 0;
+    virtual HRESULT __stdcall EndOfFileEventTX (
+        long Cookie ) = 0;
+    virtual HRESULT __stdcall NetworkMonitorEventRX (
+        double RXMean,
+        double RXVariance ) = 0;
+    virtual HRESULT __stdcall NetworkMonitorEventTX (
+        double TXMean,
+        double TXVariance ) = 0;
+};
+
+#pragma pack(pop)

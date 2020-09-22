@@ -1,0 +1,1016 @@
+# Microsoft Developer Studio Generated Dependency File, included by WINVNC.MAK
+
+.\black_layered.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	
+
+.\buildtime.cpp : \
+	"..\..\..\aggressiveoptimize.h"\
+	
+
+..\..\DSMPlugin\DSMPlugin.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	
+
+.\Dtwinver.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\winefs.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	".\Dtwinver.h"\
+	
+
+.\HideDesktop.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\shldisp.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\shobjidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\shtypes.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	
+
+.\rfbRegion_X11.cxx : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\xregion\region.h"\
+	"..\..\xregion\xregion.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion_X11.h"\
+	".\stdhdrs.h"\
+	".\vnclog.h"\
+	
+
+.\rfbUpdateTracker.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\xregion\xregion.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\vnclog.h"\
+	
+
+.\stdhdrs.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	".\stdhdrs.h"\
+	".\vnclog.h"\
+	
+
+.\Test.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\winefs.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	".\Dtwinver.h"\
+	
+
+.\TextChat.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\localization.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncserver.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	
+
+.\translate.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\rfb\rfbproto.h"\
+	".\rfb.h"\
+	".\stdhdrs.h"\
+	".\tableinitcmtemplate.cpp"\
+	".\tableinittctemplate.cpp"\
+	".\tabletranstemplate.cpp"\
+	".\translate.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncosversion.h"\
+	
+
+.\videodriver.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	".\stdhdrs.h"\
+	".\videodriver.h"\
+	".\vnclog.h"\
+	".\vncosversion.h"\
+	
+
+.\videodrivercheck.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\winefs.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	
+
+.\vncabout.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	".\stdhdrs.h"\
+	".\vncabout.h"\
+	".\vnclog.h"\
+	".\winvnc.h"\
+	
+
+.\vncbuffer.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncbuffer.h"\
+	".\vncdesktop.h"\
+	".\vncencoder.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	
+
+.\vncclient.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\shldisp.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\shobjidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\shtypes.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\localization.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncabout.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnckeymap.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncmenu.h"\
+	".\vncproperties.h"\
+	".\vncpropertiesPoll.h"\
+	".\vncserver.h"\
+	".\vncservice.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	
+
+.\vncdesktop.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	"..\vnchooks\vnchooks.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncdesktopthread.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnckeymap.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncosversion.h"\
+	".\vncserver.h"\
+	".\vncservice.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	".\winvnc.h"\
+	
+
+.\vncDesktopSW.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	"..\vnchooks\vnchooks.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncserver.h"\
+	".\vncservice.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	".\winvnc.h"\
+	
+
+.\vncdesktopthread.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncdesktopthread.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnckeymap.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncserver.h"\
+	".\vncservice.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	
+
+.\vncencodehext.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\stdhdrs.h"\
+	".\translate.h"\
+	".\vncbuffer.h"\
+	".\vncencodehext.h"\
+	".\vncencoder.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	
+
+.\vncencoder.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\stdhdrs.h"\
+	".\translate.h"\
+	".\vncbuffer.h"\
+	".\vncencoder.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	
+
+.\vncencoderCursor.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncbuffer.h"\
+	".\vncdesktop.h"\
+	".\vncencoder.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	
+
+.\vncencodezrle.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\rdr\memoutstream.h"\
+	"..\..\rdr\outstream.h"\
+	"..\..\rdr\zliboutstream.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\rfb\zrleencode.h"\
+	"..\..\xregion\xregion.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\stdhdrs.h"\
+	".\translate.h"\
+	".\vncbuffer.h"\
+	".\vncencoder.h"\
+	".\vncencodezrle.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	
+
+.\vncinsthandler.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	".\stdhdrs.h"\
+	".\vncinsthandler.h"\
+	".\vnclog.h"\
+	
+
+.\vnckeymap.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\rfb\rfbproto.h"\
+	".\keysymdef.h"\
+	".\rfb.h"\
+	".\stdhdrs.h"\
+	".\vnckeymap.h"\
+	".\vnclog.h"\
+	".\vncservice.h"\
+	
+
+.\vnclog.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	".\stdhdrs.h"\
+	".\vnclog.h"\
+	
+
+.\vncmenu.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\shldisp.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\shobjidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\shtypes.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\hidedesktop.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncabout.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncmenu.h"\
+	".\vncproperties.h"\
+	".\vncpropertiesPoll.h"\
+	".\vncserver.h"\
+	".\vncservice.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	".\winvnc.h"\
+	
+
+.\vncMultiMonitor.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	"..\vnchooks\vnchooks.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncdesktopthread.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnckeymap.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncosversion.h"\
+	".\vncserver.h"\
+	".\vncservice.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	".\winvnc.h"\
+	
+
+.\vncOSVersion.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\winefs.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	
+
+.\vncproperties.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\localization.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncosversion.h"\
+	".\vncproperties.h"\
+	".\vncserver.h"\
+	".\vncservice.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	".\winvnc.h"\
+	
+
+.\vncpropertiesPoll.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\localization.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncosversion.h"\
+	".\vncpropertiesPoll.h"\
+	".\vncserver.h"\
+	".\vncservice.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	".\winvnc.h"\
+	
+
+.\vncserver.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\localization.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncserver.h"\
+	".\vncservice.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	".\winvnc.h"\
+	
+
+.\vncservice.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\localization.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncabout.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncmenu.h"\
+	".\vncproperties.h"\
+	".\vncpropertiesPoll.h"\
+	".\vncserver.h"\
+	".\vncservice.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	".\winvnc.h"\
+	
+
+.\vncsockconnect.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncserver.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	
+
+.\vsocket.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\stdhdrs.h"\
+	".\vnclog.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	
+
+.\winvnc.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\DSMPlugin\DSMPlugin.h"\
+	"..\..\libjpeg\jconfig.h"\
+	"..\..\libjpeg\jmorecfg.h"\
+	"..\..\libjpeg\jpeglib.h"\
+	"..\..\rfb\rfbproto.h"\
+	"..\..\xregion\xregion.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	"..\..\zlib\zconf.h"\
+	"..\..\zlib\zlib.h"\
+	"..\omnithread\nt.h"\
+	"..\omnithread\omnithread.h"\
+	".\localization.h"\
+	".\rfb.h"\
+	".\rfbMisc.h"\
+	".\rfbRect.h"\
+	".\rfbRegion.h"\
+	".\rfbRegion_X11.h"\
+	".\rfbUpdateTracker.h"\
+	".\stdhdrs.h"\
+	".\TextChat.h"\
+	".\translate.h"\
+	".\videodriver.h"\
+	".\vncabout.h"\
+	".\vncbuffer.h"\
+	".\vncclient.h"\
+	".\vncdesktop.h"\
+	".\vncencodehext.h"\
+	".\vncencodemgr.h"\
+	".\vncencoder.h"\
+	".\vncencodetight.h"\
+	".\vncencodezrle.h"\
+	".\vncinsthandler.h"\
+	".\vnclog.h"\
+	".\vncmemcpy.h"\
+	".\vncmenu.h"\
+	".\vncosversion.h"\
+	".\vncproperties.h"\
+	".\vncpropertiesPoll.h"\
+	".\vncserver.h"\
+	".\vncservice.h"\
+	".\vncsockconnect.h"\
+	".\vsocket.h"\
+	".\vtypes.h"\
+	".\winvnc.h"\
+	
+
+.\winvnc.rc : \
+	".\res\icon1.ico"\
+	".\res\icon2.ico"\
+	".\res\vnc-1.bmp"\
+	
+
+..\..\ZipUnZip32\ZipUnzip32.cpp : \
+	"..\..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	"..\..\..\..\..\program files\microsoft sdk\include\winefs.h"\
+	"..\..\..\..\sdk (c++)\include\basetsd.h"\
+	"..\..\ZipUnZip32\ZipUnZip32.h"\
+	
